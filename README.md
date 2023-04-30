@@ -10,3 +10,7 @@ Put below into project's index.html, then you can use them directly.
 
 ## Pull request
 Welcome to create a pull request to `templates.js` to add your templates.
+
+
+## Purge CDN
+Come here to purge CDN https://www.jsdelivr.com/tools/purge
