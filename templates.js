@@ -2,8 +2,8 @@ var dmeditor = {
 templates:[
   {
           blocktype: 'heading',        
-          identifier:'sample', 
-          name:'Block heading', 
+          identifier:'gradient-background', 
+          name:'Gradient background', 
           css:`
             background-image: linear-gradient(45deg, #7242f7, #ec2eaa);
             padding: 10px;
