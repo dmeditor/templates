@@ -2,9 +2,6 @@
 
 This is a repoistory for DM Editor remote templates registration.
 
-Please 
-
-
 # Usage
 Put below into project's index.html, then you can use them directly.
 ```
@@ -12,4 +9,4 @@ Put below into project's index.html, then you can use them directly.
 ```
 
 # Pull request
-Create a pull request to `templates.js`.
+Welcome to create a pull request to `templates.js` to add your templates.
