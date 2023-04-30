@@ -4,7 +4,10 @@ templates:[
           blocktype: 'heading',        
           identifier:'sample', 
           name:'Block heading', 
-          css:`background:#ffcc00; 
+          css:`
+            background-image: linear-gradient(45deg, #7242f7, #ec2eaa);
+            padding: 10px;
+            letter-spacing: 2px;
           h2{
               text-align:center;
           }`,
