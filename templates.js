@@ -10,6 +10,7 @@ templates:[
             letter-spacing: 2px;
           h2{
               text-align:center;
+              color: white;
           }`,
           initData: ()=>{
             const data = {type:'heading', settings:{level: 2}};
