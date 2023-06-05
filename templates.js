@@ -1,5 +1,5 @@
 var dmeditor = {
-templates:[
+styles:[
   {
           blocktype: 'heading',        
           identifier:'gradient-background', 
@@ -10,11 +10,7 @@ templates:[
             letter-spacing: 2px;
           h1, h2, h3, h4, h5{
               text-align:center;
-          }`,
-          initData: ()=>{
-            const data = {type:'heading', settings:{level: 2}};
-            return {...data, data:'Hello1', common:{...data.common, color: '#ffffff' }}
-          }, 
+          }`         
       }
 ]
 }
